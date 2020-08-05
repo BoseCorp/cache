@@ -4,7 +4,7 @@ package persistence
 import (
 	"testing"
 	"time"
-	// "github.com/Jim-Lambert-Bose/cache/persistence"
+	// "github.com/BoseCorp/cache/persistence"
 
 )
 

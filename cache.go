@@ -12,7 +12,7 @@ import (
 	"time"
 
 	// "github.com/gin-contrib/cache/persistence"
-	"github.com/Jim-Lambert-Bose/cache/persistence"
+	"github.com/BoseCorp/cache/persistence"
 
 	"github.com/gin-gonic/gin"
 )
